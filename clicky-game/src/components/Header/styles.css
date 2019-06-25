@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-image: url("./assets/Diamond-Sunset.svg");
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 450px;
+}
+
+.header > h1, .header > h2 {
+    margin: 0;
+    color: white;
+}
+
+body {
+    margin: 0;
+}
