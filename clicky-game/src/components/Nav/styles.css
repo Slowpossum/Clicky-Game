@@ -9,3 +9,35 @@
     color: white;
     z-index: 2;
 }
+
+#info {
+    width: 205px;
+    text-align: center;
+    transition: 2s ease;
+}
+
+.correct {
+    animation: correct 500ms forwards 1;
+}
+
+@keyframes correct {
+    from {
+        color: #76dd64;
+    }
+    to {
+        color: white;
+    }
+}
+
+.incorrect {
+    animation: incorrect 500ms forwards 1;
+}
+
+@keyframes incorrect {
+    from {
+        color: #e6393e;
+    }
+    to {
+        color: white;
+    }
+}
