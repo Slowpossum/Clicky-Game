@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/img/poopGod.jpg",
+        "alt": "Poop God"
+    },
+    {
+        "id": 2,
+        "image": "./assets/img/punpun.jpg",
+        "alt": "Punpun"
+    },
+    {
+        "id": 3,
+        "image": "./assets/img/punpunsGod.png",
+        "alt": "Punpun's God"
+    },
+    {
+        "id": 4,
+        "image": "./assets/img/shimizu.jpg",
+        "alt": "Shimizu"
+    }
+]

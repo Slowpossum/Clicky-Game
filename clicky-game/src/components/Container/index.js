@@ -1,10 +1,9 @@
 import React from 'react';
 import "./styles.css";
 
-function Container() {
+function Container(props) {
   return (
-    <div className="container">
-    </div>
+    <div className="container" {...props} />
   );
 }
 
