@@ -18,5 +18,45 @@
         "id": 4,
         "image": "./assets/img/shimizu.jpg",
         "alt": "Shimizu"
+    },
+    {
+        "id": 5,
+        "image": "./assets/img/aiko.jpg",
+        "alt": "Aiko"
+    },
+    {
+        "id": 6,
+        "image": "./assets/img/azusa.jpg",
+        "alt": "Azusa"
+    },
+    {
+        "id": 7,
+        "image": "./assets/img/mamaPunpun.jpg",
+        "alt": "Mama Punpun"
+    },
+    {
+        "id": 8,
+        "image": "./assets/img/miyuki.jpg",
+        "alt": "Miyuki"
+    },
+    {
+        "id": 9,
+        "image": "./assets/img/pegasus.jpg",
+        "alt": "Pegasus"
+    },
+    {
+        "id": 10,
+        "image": "./assets/img/seki.jpg",
+        "alt": "Seki"
+    },
+    {
+        "id": 11,
+        "image": "./assets/img/yugami.jpg",
+        "alt": "Yugami"
+    },
+    {
+        "id": 12,
+        "image": "./assets/img/dio.png",
+        "alt": "You thought it'd be a punpun, but it's me, Dio!"
     }
 ]
