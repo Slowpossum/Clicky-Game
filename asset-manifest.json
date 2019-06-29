@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Clicky-Game-Build/static/css/main.e04a6d5a.chunk.css",
+    "main.js": "/Clicky-Game-Build/static/js/main.1365e5a1.chunk.js",
+    "main.js.map": "/Clicky-Game-Build/static/js/main.1365e5a1.chunk.js.map",
+    "runtime~main.js": "/Clicky-Game-Build/static/js/runtime~main.1530336d.js",
+    "runtime~main.js.map": "/Clicky-Game-Build/static/js/runtime~main.1530336d.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/Clicky-Game-Build/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/Clicky-Game-Build/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/Clicky-Game-Build/index.html",
+    "precache-manifest.4b25614fc65080cf39264263e23c6f8b.js": "/Clicky-Game-Build/precache-manifest.4b25614fc65080cf39264263e23c6f8b.js",
+    "service-worker.js": "/Clicky-Game-Build/service-worker.js",
+    "static/css/main.e04a6d5a.chunk.css.map": "/Clicky-Game-Build/static/css/main.e04a6d5a.chunk.css.map",
+    "static/media/styles.css": "/Clicky-Game-Build/static/media/Diamond-Sunset.f66c1ef5.svg"
+  }
+}
